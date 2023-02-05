@@ -9,8 +9,12 @@
  <div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=Evgga&style=for-the-badge&color=blueviolet" alt=""/>
    
    ## Hey there!
+   
+  <div align="center">
+  <img src="https://media.giphy.com/media/Uv1ocOCpjNRDc3vZse/giphy.gif" width="500" height="300"/>
+</div> 
 
-<div id="header" align="center"><img src="https://media.giphy.com/media/Uv1ocOCpjNRDc3vZse/giphy.gif" width=50"/></div
+
 
 
 
