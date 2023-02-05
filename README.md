@@ -13,10 +13,12 @@
   <div align="center">
   <img src="https://media.giphy.com/media/Uv1ocOCpjNRDc3vZse/giphy.gif" width="500" height="300"/>
 </div> 
+   
+   ---
 
   <div align="left">
     
-   ### :woman_technologist: About Me :
+   ### :woman_technologist: Обо мне :
    
    Меня зовут Евгения Зверева
 
@@ -26,3 +28,10 @@
 - 📫 Как найти меня:
 - ⚡
 - :seedling: Хобби:
+
+  ---
+
+### :hammer_and_wrench: Языки и инструменты :
+    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    </div>
