@@ -1,9 +1,12 @@
-<div id="header" align="center"><img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100"/></div<div id="badges" align-"center">
-  <a href="https://vk.com/evadream7">
-     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge" width="70"/>
-  </a>
-</div>
+<div id="header" align="center"><img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100"/></div
   
+<div id="badges">
+  <a href="https://vk.com/evadream7">
+    <div id="header" align="center"><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge" width="70"/>
+  </a>
+</div> 
+  
+ <div id="header" align="center"><img src="https://komarev.com/ghpvc/?username=Evgga&style=for-the-badge&color=blueviolet" alt=""/>
 
 
 
