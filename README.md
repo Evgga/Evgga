@@ -14,16 +14,12 @@
   <img src="https://media.giphy.com/media/Uv1ocOCpjNRDc3vZse/giphy.gif" width="500" height="300"/>
 </div> 
 
-
-
-
-
-**Evgga/Evgga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  <div align="left">
+    
+   ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 В настоящее время я учусь на инженера-программиста С++ в ИТ-школе GeekBrains [ссылка](https://gb.ru/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
