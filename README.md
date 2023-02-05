@@ -1,6 +1,14 @@
-<div id="header" align="center"><img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100"/></div
+<div id="header" align="center"><img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100"/></div<div id="badges" align-"center">
+  <a href="https://vk.com/evadream7">
+     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge" width="70"/>
+  </a>
+</div>
   
-<!--
+
+
+
+
+
 **Evgga/Evgga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
